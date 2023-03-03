@@ -11,3 +11,14 @@
 				<scientific_name>Rosa</scientific_name>
 			</details>
 	</flower1>
+
+ <flower2>
+		<name>Tulip</name>
+			<details>
+				<color>Various</color>
+				<meaning>Perfect love</meaning>
+				<country>Turkey</country>
+				<scientific_name>Tulipa</scientific_name>
+			</details>
+	</flower2>
+</flowers>
