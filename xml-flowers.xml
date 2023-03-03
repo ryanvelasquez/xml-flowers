@@ -1,1 +1,13 @@
 <?xml version = "1.0" encoding = "UTF-8" ?>
+
+<flowers>
+
+	<flower1>
+		<name>Rose</name>
+			<details>
+				<color>Red, pink, white, yellow, and more</color>
+				<meaning>Love, passion, and beauty</meaning>
+				<country>China</country>
+				<scientific_name>Rosa</scientific_name>
+			</details>
+	</flower1>
