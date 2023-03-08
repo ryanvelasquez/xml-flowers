@@ -1,7 +1,6 @@
 <?xml version = "1.0" encoding = "UTF-8" ?>
 
 <flowers>
-
 	<flower1>
 		<name>Rose</name>
 			<details>
@@ -11,8 +10,7 @@
 				<scientific_name>Rosa</scientific_name>
 			</details>
 	</flower1>
-
- <flower2>
+ 	<flower2>
 		<name>Tulip</name>
 			<details>
 				<color>Various</color>
@@ -21,4 +19,31 @@
 				<scientific_name>Tulipa</scientific_name>
 			</details>
 	</flower2>
+	<flower3>
+		<name>Daisy</name>
+			<details>
+				<color>White with a yellow center, pink, purple</color>
+				<meaning>Innocence, purity, and new beginnings</meaning>
+				<country>Europe, North America, and Africa</country>
+				<scientific_name>Bellis perennis</scientific_name>
+			</details>
+	</flower3>
+	<flower4>
+	<name>Lily</name>
+		<details>
+			<color>White, yellow, pink, red, orange, and more</color>
+			<meaning>Purity, devotion, and rebirth</meaning>
+			<country>Europe, Asia, and North America</country>
+			<scientific_name>Lilium</scientific_name>
+		</details>
+	</flower4>
+	<flower5>
+	<name>Orchid</name>
+		<details>
+			<color>Various</color>
+			<meaning>Love, beauty, luxury, and strength</meaning>
+			<country>Tropical regions around the world</country>
+			<scientific_name>Orchidaceae</scientific_name>
+		</details>
+	</flower5>
 </flowers>
